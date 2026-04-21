@@ -33,7 +33,7 @@ static List< DietModel> getDiets(){
       duration: '30mins',
       calorie: '180kCal',
       viewIsSelected:true,
-      boxColor: Color(0xff92D52E)
+      boxColor: Color(0xff9DCEFF)
     )
   );
 
@@ -45,7 +45,7 @@ static List< DietModel> getDiets(){
       duration: '20mins',
       calorie: '230kCal',
       viewIsSelected:false,
-      boxColor: Color(0xff92D52E)
+      boxColor: Color(0xffEEA4CE)
     )
   );
   return diets;
